@@ -1,3 +1,4 @@
+```mermaid
 classDiagram
     direction LR
 
@@ -42,14 +43,13 @@ classDiagram
         + saltarAleatorio(int pos, int tam) : int
     }
 
-    %% Herencias
     Criatura <|-- Raiz
     Criatura <|-- Centella
     Criatura <|-- Metamorfitas
     Criatura <|-- Albo
 
-    %% Herencia múltiple
     Volador <|.. Centella
 
-    %% Relaciones
     Mundo "1" *-- "0..*" Criatura : contiene
+```
+
