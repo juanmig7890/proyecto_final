@@ -11,18 +11,26 @@ estas clases heredan de una clase madre llamada Criatura, la cual se encarga de 
 **conceptos utilizados y objetivos:**
 En este proyecto se trataron de utilizar todos los temas y conceptos vistos a lo largo del curso de programacion orientada a objetos, los cuales se debieron utilizar de manera correcta y de la manera mas util posible para que nosotros como desarrolladores tengamos la habilidad y sabiduria de saber crear debidamente un codigo, tambien puede servir para que las personas que estan empezando a comprender estos conceptos le den un vistazo y asi puedan entender en que momento utilizarlos:
 
-**1. [Definicion de clases y objetos]**
-**2. [Herencia]**
-**3. [Polimorfismo]**
-**4. [Herencia multiple]**
-**5. [Agregación y/o Composición]**
-**6. [Asociación simple]**
-**7. [persistencia]**
+1. [Definicion de clases y objetos]
+2. [Herencia]
+3. [Polimorfismo]
+4. [Herencia multiple]
+5. [Agregación y/o Composición]
+6. [Asociación simple]
+7. [persistencia]
 
 Estos son los temas principales vistos a traves del curso y los cuales se aplicaron debidamente en el proyecto.
 
 
 **Manual de usuario:**
+1.[El usuario debe tener debidamente instalado Clion en su PC]
+2.[Verifica tener un compilador C++ configurado]
+3.[Abre el archivo de codigo en tu PC desde Clion]
+4.[Verifica que al abrirlo, en el panel lateral esten todos los archivos necesarios para que el programa compile debidamente]
+5.[Cuando tengas todos los archivos ve al boton en el panel superior de run y ejecuta el programa]
+6.[La salida va a aparecer en la consola y ahi tendras un interaccion dinamica hasta que finalice]
+
+sigue estos pasos y asi podras tener una ejecución y compilacion correcta del programa desde Clion.
 
 
 
